@@ -1,2 +1,5 @@
 **/*.vcd
 **/a.out
+cpp/build
+back/node_modules
+tmp
